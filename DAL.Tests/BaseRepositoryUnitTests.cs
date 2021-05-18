@@ -1,12 +1,8 @@
-using System;
-using Xunit;
-using Lab.DAL.Repositories.Implementation;
 using Lab.DAL.EF;
+using Lab.DAL.Repositories.Implementation;
 using Microsoft.EntityFrameworkCore;
-using Lab.DAL.Entities;
-using Lab.DAL.Repositories.Interfaces;
-using System.Linq;
 using Moq;
+using Xunit;
 using Record = Lab.DAL.Entities.Record;
 
 namespace DAL.Tests

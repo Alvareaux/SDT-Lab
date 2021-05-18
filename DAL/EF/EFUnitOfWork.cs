@@ -1,9 +1,7 @@
-﻿using Lab.DAL.Entities;
+﻿using Lab.DAL.EF;
 using Lab.DAL.Repositories.Implementation;
 using Lab.DAL.Repositories.Interfaces;
 using Lab.DAL.UnitOfWork;
-using Lab.DAL.EF;
-using Microsoft.EntityFrameworkCore;
 using System;
 
 namespace Catalog.DAL.EF

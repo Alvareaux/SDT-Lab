@@ -1,10 +1,8 @@
-﻿using Lab.DAL.EF;
-using Lab.DAL.Repositories.Interfaces;
+﻿using Lab.DAL.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Lab.DAL.Repositories.Implementation
 {

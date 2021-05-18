@@ -1,5 +1,4 @@
 ﻿using Lab.DAL.Entities;
-
 using Microsoft.EntityFrameworkCore;
 
 namespace Lab.DAL.EF
