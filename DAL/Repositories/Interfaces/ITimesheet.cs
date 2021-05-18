@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Lab.DAL.Entities;
 
 namespace Lab.DAL.Repositories.Interfaces
 {
-    public interface ITimesheet
+    public interface ITimesheetRepository
         : IRepository<Timesheet>
     {
 

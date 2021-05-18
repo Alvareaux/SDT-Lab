@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Lab.DAL.Entities
+﻿namespace Lab.DAL.Entities
 {
     public enum state
     {
