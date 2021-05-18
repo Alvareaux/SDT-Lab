@@ -10,6 +10,7 @@ namespace CLL.Security.Identity
         public Admin(int user_id, string name, int department_id)
             : base(user_id, name, department_id, nameof(Admin))
         {
+
         }
     }
 }
